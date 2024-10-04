@@ -1,0 +1,9 @@
+# Ignorer les répertoires de cache Python
+__pycache__/
+
+# Ignorer le répertoire de configuration de VSCode
+.vscode/
+
+# Ignorer les fichiers de distribution et de packaging
+*dist*
+*egg-info*
